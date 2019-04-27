@@ -33,7 +33,7 @@ publishing {
                 failOnError false
                 source = android.sourceSets.main.java.srcDirs
                 // encoding = 'UTF-8'
-                classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
+               // classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
             }
 
             task androidJavadocsJar(type: Jar, dependsOn: androidJavadocs) {
@@ -80,7 +80,7 @@ artifactory {
 
 android {
     compileSdkVersion 27
-    buildToolsVersion '27.0.0'
+    buildToolsVersion '28.0.3'
 
 
     defaultConfig {

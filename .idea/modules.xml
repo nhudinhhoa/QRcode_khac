@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BarcodeReader.iml" filepath="$PROJECT_DIR$/BarcodeReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QRcode khac.iml" filepath="$PROJECT_DIR$/QRcode khac.iml" />
       <module fileurl="file://$PROJECT_DIR$/barcode-reader/barcode-reader.iml" filepath="$PROJECT_DIR$/barcode-reader/barcode-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcode-reader/barcode-reader.iml" filepath="$PROJECT_DIR$/barcode-reader/barcode-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
     </modules>
   </component>

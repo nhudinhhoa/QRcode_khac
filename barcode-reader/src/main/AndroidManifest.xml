@@ -2,6 +2,5 @@
     package="info.androidhive.barcode">
 
     <uses-permission android:name="android.permission.CAMERA" />
-
     <uses-feature android:name="android.hardware.camera" />
 </manifest>
